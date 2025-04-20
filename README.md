@@ -1,7 +1,6 @@
 # Chatbot
-[python-wechaty](https://github.com/wechaty/python-wechaty) is an unified conversational RPA SDK for chatbot maker. Developer at least use six lines code to create chatbot base on multi-ims, eg: wechat, wechat official account, dingtalk, lark, whatsapp, giter, and so on ...
+[sudharsan-code-maker](https://github.com/sudharsan-code-maker) is an unified conversational RPA SDK for chatbot maker. Developer at least use six lines code to create chatbot base on multi-ims, eg: wechat, wechat official account, dingtalk, lark, whatsapp, giter, and so on ...
 
-There are [chinese documents](https://wechaty.readthedocs.io/) and [english documents](http://wechaty.js.org/) for developers to create their own chatbots.
 
 ### Prerequisites
 
@@ -21,4 +20,4 @@ The Run command script above is the best screenshot.
 
 ## *Author Name*
 
-[wj-Mcat](https://github.com/wj-Mcat), 吴京京, NLP Researcher, Chatbot Lover
+[sudharsan-code-maker](https://github.com/sudharsan-code-maker), NLP Researcher, Chatbot Lover
